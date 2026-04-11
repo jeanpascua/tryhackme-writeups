@@ -16,4 +16,4 @@ Pre-Security -> Cyber Security 101 -> **Jr Penetration Tester** (target)
 
 ## Writeups
 
-*(in progress)*
+- [Pre-Security](./pre-security.md)
